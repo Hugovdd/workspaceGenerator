@@ -1,4 +1,4 @@
--- Folder structure generator for TCC at Brave
+-- Folder structure generator for TCC;
 -- Hugo van den Doel at Brave, 2018;
 
 try
